@@ -14,28 +14,28 @@ import { BottomNav } from './components';
 /* eslint-disable global-require */
 const tabList = [
   {
-    text: ' Menu1 ',
+    text: ' 1 ',
     redirectLink: 'home',
     id: 'home',
     image: require('./Thumbnails/play-button-small.png'),
     selectionImage: require('./Thumbnails/play-button-selected.png'),
   },
   {
-    text: ' Menu2 ',
+    text: ' 2 ',
     redirectLink: 'menu2',
     id: 'Menu2',
     image: require('./Thumbnails/settings.png'),
     selectionImage: require('./Thumbnails/settings-selected.png'),
   },
   {
-    text: ' Menu3 ',
+    text: ' 3 ',
     redirectLink: 'menu3',
     id: 'Menu3',
     image: require('./Thumbnails/user.png'),
     selectionImage: require('./Thumbnails/user-selected.png'),
   },
   {
-    text: ' Menu4 ',
+    text: ' 4 ',
     redirectLink: 'menu4',
     id: 'Menu4',
     image: require('./Thumbnails/settings.png'),

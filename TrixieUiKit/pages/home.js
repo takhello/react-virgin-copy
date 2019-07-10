@@ -68,7 +68,7 @@ class Home extends Component {
   showHorizontalList() {
     return (
       <View style={globalStyle.recentlyPlayed}>
-        <Text style={[globalStyle.name, globalStyle.paddingLeftValue]}>Horizontal List</Text>
+        <Text style={[globalStyle.name, globalStyle.paddingLeftValue]}>Horizontal List111</Text>
         <ListView
           horizontal
           removeClippedSubviews={false}
